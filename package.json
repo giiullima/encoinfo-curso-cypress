@@ -1,0 +1,16 @@
+{
+  "name": "curso-cypress",
+  "version": "1.0.0",
+  "description": "Projeto do curso de testes automatizados com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "cypress",
+    "e2e"
+  ],
+  "author": "Giulliany",
+  "license": "ISC"
+}

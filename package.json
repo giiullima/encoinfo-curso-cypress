@@ -12,5 +12,8 @@
     "e2e"
   ],
   "author": "Giulliany",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.5.0"
+  }
 }

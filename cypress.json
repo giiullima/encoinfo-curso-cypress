@@ -1,1 +1,7 @@
-{}
+{
+    "watchForFileChanges": false,
+    "waitForAnimations": true,
+    "pageLoadTimeout": 60000,
+    "video": false,
+    "defaultCommandTimeout": 10000
+}
